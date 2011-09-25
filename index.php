@@ -1,4 +1,5 @@
 <?php
+
 	if (isset($_REQUEST['page'])){
 	  $pages = array("news", "about", "features", "downloads", "development", "faq", "contact", "credits");
 	  if (in_array($_REQUEST['page'],$pages)) {
