@@ -1,18 +1,3 @@
-<?php
-
-	if (isset($_REQUEST['page'])){
-	  $pages = array("news", "about", "features", "downloads", "development", "faq", "contact", "credits");
-	  if (in_array($_REQUEST['page'],$pages)) {
-	    $page = $_REQUEST['page'];
-	  }
-	  else{
-	   $page = 'news';
-	  }
-	}
-	else {
-	 $page = 'news';
-	}
-?>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>
@@ -35,25 +20,26 @@
 </tr>
 <TR height="42">
 	<TD width="165" align="right"><IMG SRC="images/top_03.gif" valign="top"></td>
-	<TD width="615" align="left" background="images/top_04.gif"><h1><?php echo ucwords($page); ?></h1></td>
+	<TD width="615" align="left" background="images/top_04.gif">
+	<h1>{{ page.title }}</h1></td>
 
 </tr>
 <TR>
 	<TD valign="top" id="menu">
 
 		<h2 class="menu">Navigation</h2>
-		<?php include('_header_navigation.htm') ?>
+		{% include _header_navigation.html %}
 	
 		<h2 class="menu">Links</h2>
-		<?php include('_header_links.htm') ?>
+		{% include _header_links.html %}
 
 		<h2 class="menu">Support</h2>
-		<?php include('_header_support.htm') ?>
+		{% include _header_support.html %}
 
 	</td>
 <td valign="top" id="contents">
 
-	<?php include($page.'.htm') ?>
+	{{ content }}
 
 
 </td>
@@ -65,9 +51,6 @@
 		</p>
 	</td>
 	<td id="footerright" valign="bottom">
-		<p class="footerright" style="text-align: right; margin-bottom: 10px;">
-			<a href="pageprint.php?page=<?php echo $page ?>" class="blue">View Printable Version</a>
-		</p>
 		<p class="footerright">
 			Exalted is Copyright by <a class="blue" href="http://www.white-wolf.com/legalize.html">White Wolf Publishing, Inc.</a><br>
 			Anathema is developed by 

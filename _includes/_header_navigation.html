@@ -1,0 +1,58 @@
+		<ul class="menu">
+			<li class="menu"
+				{% if page.title != 'News' %}
+					><a href="news.htm">News</a>
+				{% elsif %}
+					' style="list-style-type: disc;"><b>News</b>
+				{% endif %}
+			</li>
+			<li class="menu"
+				{% if page.title != 'About' %}
+					><a href="about.htm">About</a>
+				{% elsif %}
+					' style="list-style-type: disc;"><b>About</b>
+				{% endif %}				
+			</li>
+			<li class="menu"
+				{% if page.title != 'Features' %}
+					><a href="features.htm">Features</a>
+				{% elsif %}
+					' style="list-style-type: disc;"><b>Features</b>
+				{% endif %}		
+			</li>
+			<li class="menu"
+				{% if page.title != 'Downloads' %}
+					><a href="downloads.htm">Downloads</a>
+				{% elsif %}
+					' style="list-style-type: disc;"><b>Downloads</b>
+				{% endif %}	
+			</li>
+			<li class="menu"
+				{% if page.title != 'Development' %}
+					><a href="development.htm">Development</a>
+				{% elsif %}
+					' style="list-style-type: disc;"><b>Development</b>
+				{% endif %}	
+			</li>
+			<li class="menu"
+				{% if page.title != 'FAQ' %}
+					><a href="faq.htm">FAQ</a>
+				{% elsif %}
+					' style="list-style-type: disc;"><b>FAQ</b>
+				{% endif %}	
+			</li>
+			<li class="menu"
+				{% if page.title != 'Contact' %}
+					><a href="contact.htm">Contact</a>
+				{% elsif %}
+					' style="list-style-type: disc;"><b>Contact</b>
+				{% endif %}	
+			</li>
+			<li class="menu"
+				{% if page.title != 'Credits' %}
+					><a href="credits.htm">Credits</a>
+				{% elsif %}
+					' style="list-style-type: disc;"><b>Credits</b>
+				{% endif %}
+			</li>
+		</ul>
