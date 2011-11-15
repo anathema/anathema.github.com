@@ -1,4 +1,4 @@
-This is a clone of the Anathema website.
+This is the source of the Anathema website.
+It is served via github pages' jekyll service.
 
-Anathema still resides at anathema.sf.net.
-This is just an attempt to rebuild the page using github pages.
+Anathema can be reached at ``http://exalted-rpg.github.com`` or ``http://anathema.sf.net``
