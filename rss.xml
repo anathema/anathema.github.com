@@ -8,8 +8,8 @@ layout: nil
 
   <channel>
     <title>Anathema News</title>
-    <link>http://exalted-rpg.github.com/</link>
-    <atom:link href="http://exalted-rpg.github.com/rss.xml" rel="self" type="application/rss+xml" />
+    <link>http://anathema.github.com/</link>
+    <atom:link href="http://anathema.github.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>News about Anathema</description>
     <language>en-us</language>
     <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
@@ -18,10 +18,10 @@ layout: nil
     {% for post in site.posts %}
     <item>
       <title>{{ post.title }}</title>
-      <link>http://exalted-rpg.github.com{{ post.url }}</link>
+      <link>http://anathema.github.com{{ post.url }}</link>
       <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
       <author>{{ post.author }}</author>
-      <guid>http://exalted-rpg.github.com{{ post.id }}</guid>
+      <guid>http://anathema.github.com{{ post.id }}</guid>
       <description>{{ post.content | xml_escape }}</description>
     </item>
     {% endfor %}
