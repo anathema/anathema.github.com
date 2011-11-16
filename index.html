@@ -12,21 +12,29 @@ title: News
 <hr />
 
 <h2>Previous posts</h2>
-<ul id="archive">
-
-{% for post in paginator.posts %}
-<li><a href="{{ post.url }}">{{ post.title }}</a> - <abbr>{{ post.date | date_to_string }}</abbr></li>
-{% endfor %}
-</ul>
 
 <!--Taken from https://gist.github.com/1250095 by shinichikusai-->
 {% if paginator.next_page or paginator.previous_page %}
+	
+	
+	<ul id="archive">
+	{% for post in paginator.posts %}
+		<li><a href="{{ post.url }}">{{ post.title }}</a> - <abbr>{{ post.date | date_to_string }}</abbr></li>
+	{% endfor %}
+	</ul>
+	
+	<div align="center">
 	{% if paginator.previous_page == 1 %}
-		<a href="/" class="next">&laquo; Newer</a>
+		<a href="/">&laquo; Newer</a>
 	{% elsif paginator.previous_page %}
-		<a href="/page{{ paginator.previous_page }}/" class="next">&laquo; Newer</a>
+		<a href="/page{{ paginator.previous_page }}/">&laquo; Newer</a>
 	{% endif %}
 	{% if paginator.next_page %}
-			<a href="/page{{ paginator.next_page }}/" class="prev">Older &raquo;</a>
-	{% endif %}
+		<a href="/page{{ paginator.next_page }}/">Older &raquo;</a>
+	{% endif %}	
+	</div>
+	
+	<div align="center">
+	
+	</div>
 {% endif %}
