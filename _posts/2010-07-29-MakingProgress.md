@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Making Progress
 author: Eric
 ---

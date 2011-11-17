@@ -1,7 +1,7 @@
 ---
 author: Urs
 title: Meanwhile, elsewhere...
-layout: default
+layout: post
 ---
 
 Again, five weeks have passed, again it's time for a regular release of Anathema.  

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Calibration - Version 2.0.0
 author: Eric
 ---

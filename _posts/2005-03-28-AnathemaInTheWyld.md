@@ -1,7 +1,7 @@
 ---
 author: Urs
 title: Anathema in the Wyld
-layout: default
+layout: post
 ---
 
 To commemorate half a years worth of work, I hereby give you the Anathema website!  

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Windows on your Lap
 author: Urs
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Release Manifesting Announcement
 author: Urs
 ---

@@ -1,7 +1,7 @@
 ---
 author: Urs
 title: Imbuing CCC
-layout: default
+layout: post
 ---
 
 Hello again,  

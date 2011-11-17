@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: New website unveiled
 author: Urs
 ---

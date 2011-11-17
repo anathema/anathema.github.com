@@ -1,7 +1,7 @@
 ---
 author: Urs
 title: First Breath
-layout: default
+layout: post
 ---
 
 With the complete checkin of the basic fileset, Anathema has taken it's first breath - and many more will follow.  

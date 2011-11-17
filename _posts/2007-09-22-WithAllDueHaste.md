@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: With All Due Haste
 author: Urs
 ---

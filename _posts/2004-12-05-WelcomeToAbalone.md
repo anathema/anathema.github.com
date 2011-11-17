@@ -1,7 +1,7 @@
 ---
 author: Urs
 title: Welcome to Abalone
-layout: default
+layout: post
 ---
 
 We did it.

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: End-User Enlightenment Stance
 author: Urs
 ---

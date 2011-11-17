@@ -1,7 +1,7 @@
 ---
 author: Urs
 title: We meet again
-layout: default
+layout: post
 ---
 
 Delayed by a week by illness, the new version of Anathema, "Chiaroscuro", is ready for your perusal.

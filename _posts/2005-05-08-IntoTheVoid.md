@@ -1,7 +1,7 @@
 ---
 author: Urs
 title: Into the Void
-layout: default
+layout: post
 ---
 
 Hi again everyone,  

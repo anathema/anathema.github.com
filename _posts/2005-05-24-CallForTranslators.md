@@ -1,7 +1,7 @@
 ---
 author: Urs
 title: Call for additional Spanish Translators
-layout: default
+layout: post
 ---
 
 Do you own spanish Exalted sourcebooks? Would you like to contribute to Anathema?

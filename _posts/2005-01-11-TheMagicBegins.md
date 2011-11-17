@@ -1,7 +1,7 @@
 ---
 author: Urs
 title: The magic begins
-layout: default
+layout: post
 ---
 
 One month has passed since we released the first version of Anathema, which was, incidentally, well received - much better than we expected, given it's rather limited functionality.

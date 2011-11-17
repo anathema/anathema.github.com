@@ -1,7 +1,7 @@
 ---
 author: Urs
 title: In the wake of Chiaroscuro
-layout: default
+layout: post
 ---
 
 A number of bugs has been reported and fixed thanks to the open eyes and helpful hands of some users, expecially Xanatos and Lazarus.

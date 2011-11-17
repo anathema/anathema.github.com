@@ -1,7 +1,7 @@
 ---
 author: Urs
 title: Abyssal Taint
-layout: default
+layout: post
 ---
 
 Finally, it's done.  

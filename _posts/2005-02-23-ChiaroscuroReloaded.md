@@ -1,7 +1,7 @@
 ---
 author: Urs
 title: Chiaroscuro Reloaded
-layout: default
+layout: post
 ---
 
 As I'm writing this, the files containing the promised patch are being uploaded to the Sourceforge server. Shortly, they should be publicly available.  

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Monkey Business
 author: Urs
 ---
