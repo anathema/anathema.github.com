@@ -23,18 +23,20 @@ title: News
 	{% endfor %}
 	</ul>
 	
-	<div align="center">
+	<table width="100%">
+		<tr>
+			<td>
 	{% if paginator.previous_page == 1 %}
 		<a href="/">&laquo; Newer</a>
 	{% elsif paginator.previous_page %}
 		<a href="/page{{ paginator.previous_page }}/">&laquo; Newer</a>
 	{% endif %}
+			</td>
+			<td>
 	{% if paginator.next_page %}
-		<a href="/page{{ paginator.next_page }}/">Older &raquo;</a>
+		<a style="float:right" href="/page{{ paginator.next_page }}/">Older &raquo;</a>
 	{% endif %}	
-	</div>
-	
-	<div align="center">
-	
-	</div>
+			</td>
+		</tr>
+	</table>
 {% endif %}
