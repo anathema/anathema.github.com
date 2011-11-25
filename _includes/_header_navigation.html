@@ -1,9 +1,11 @@
 		<ul class="menu">		    
 			{% if page.title != "News" %}
-				<li class="menu"><a href="/news.html">News</a></li>
+				<li class="menu"><a href="/news.html">News</a>
 				{% else %}
-				<li class="menu" style="list-style-type: disc;"><b>News</b></li>
+				<li class="menu" style="list-style-type: disc;"><b>News</b>
 			{% endif %}
+			<b><small>[<a href="http://anathema.github.com/rss.xml">RSS</a>|<a href="http://anathema.github.com/atom.xml">Atom</a>]</small></li>
+			
 			{% if page.title != "About" %}
 				<li class="menu"><a href="/about.html">About</a></li>
 				{% else %}
