@@ -45,12 +45,11 @@ II. Install Eclipse & download/run Anathema
 III. Other settings in Eclipse
 ------------------------------
 
-<ol>
-  <li>In the menu select Windows/Preferences.</li>
-  <li>In the appearing window select Java/Code Style/Formatter.</li>
-  <li>Click "Import" and select the file `[Repository]/Development_Miscellaneous/Eclipse/preferences/anathema.formatter.xml`.</li>
-  <li>Apply.</li>
-</ol>
+1. In the menu select Windows/Preferences.
+2. In the appearing window select Java/Code Style/Formatter.
+3. Click "Import" and select the file `[Repository]/Development_Miscellaneous/Eclipse/preferences/anathema.formatter.xml`.
+4. Apply.
+
 
 IV. Commit changes
 ------------------
