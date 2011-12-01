@@ -3,7 +3,8 @@ layout: default
 title: Developing Anathema with Eclipse
 ---
 
-<h2>Required JDK</h2>
+Required JDK
+============
   <p>JDK 6 (Note that there is a 32 and 64 bit version too, you can download and install both if you so wish).</p>
   <p>It is possible to use JDK 7 but using it can easily introduce unwanted dependency on it so be wary.</p>
 
@@ -44,8 +45,7 @@ title: Developing Anathema with Eclipse
 <ol>
   <li>In the menu select Windows/Preferences.</li>
   <li>In the appearing window select Java/Code Style/Formatter.</li>
-  <li>Click "New" and enter a new profile name (based on "Eclipse [built-in]").</li>
-  <li>On the Indentation tab "Spaces only" as a Tab policy and set indentation size to 2.</li>
+  <li>Click "Import" and select the file ``\[Repository\]/Development_Miscellaneous/Eclipse/preferences/anathema.formatter.xml``.</li>
   <li>Apply.</li>
 </ol>
 
