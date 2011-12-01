@@ -4,11 +4,12 @@ title: Developing Anathema with Eclipse
 ---
 
 Required JDK
-============
+------------
   <p>JDK 6 (Note that there is a 32 and 64 bit version too, you can download and install both if you so wish).</p>
   <p>It is possible to use JDK 7 but using it can easily introduce unwanted dependency on it so be wary.</p>
 
-<h2>I. Preparing to download Anathema</h2>
+I. Preparing to download Anathema
+---------------------------------
 
 <ol>
   <li>Create an account on <a href="https://github.com">https://github.com</a> and log in.</li>
@@ -18,7 +19,8 @@ Required JDK
   <li>Here select "HTTP" and be prepared to copy the provided link to your clipboard later.</li>
 </ol>
 
-<h2>II. Install Eclipse & download/run Anathema</h2>
+II. Install Eclipse & download/run Anathema
+-------------------------------------------
 
 <ol>
   <li>Download Eclipse (IDE for Java developers, 32 or 64 bit version whichever JDK you have): <a href="http://www.eclipse.org/downloads">http://www.eclipse.org/downloads</a></li>
@@ -40,7 +42,8 @@ Required JDK
   <li>In the menu click Run/Run and if asked choose "Anathema" and Anathema should start.</li>
 </ol>
 
-<h2>III. Other settings in Eclipse</h2>
+III. Other settings in Eclipse
+------------------------------
 
 <ol>
   <li>In the menu select Windows/Preferences.</li>
@@ -49,7 +52,8 @@ Required JDK
   <li>Apply.</li>
 </ol>
 
-<h2>IV. Commit changes</h2>
+IV. Commit changes
+------------------
 
 <ol>
   <li>After you have modified a project right click on the project (in the Package Explorer window) and in the "Team" menu select "Commit..."</li>
