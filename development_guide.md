@@ -48,7 +48,7 @@ III. Other settings in Eclipse
 <ol>
   <li>In the menu select Windows/Preferences.</li>
   <li>In the appearing window select Java/Code Style/Formatter.</li>
-  <li>Click "Import" and select the file ``\[Repository\]/Development_Miscellaneous/Eclipse/preferences/anathema.formatter.xml``.</li>
+  <li>Click "Import" and select the file `[Repository]/Development_Miscellaneous/Eclipse/preferences/anathema.formatter.xml`.</li>
   <li>Apply.</li>
 </ol>
 
