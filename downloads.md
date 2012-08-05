@@ -10,7 +10,7 @@ title: Downloads
 	<span> for Exalted 2.5</span>
 	</a></center></ul>
 
-For a list of recent changes, please see our <div class="linkToChangelog"> </div>.  
+For a list of recent changes, please see our <div class=linkToChangelog> </div>.  
 Should you require assistance with either download or installation, please refer to the quickstart section below.
 Once you're done installing, the [user's guide](http://prdownloads.sourceforge.net/anathema/AnathemaUsersGuide_v1.0.pdf?download) might be helpful.
 
