@@ -6,7 +6,7 @@ title: Downloads
 
 <ul><center><a href="http://sourceforge.net/project/platformdownload.php?group_id=122320">
 	<span>Get Anathema</span>
-	<span id="latestVersion"> </span>
+	<span class="latestVersion"> </span>
 	<span> for Exalted 2.5</span>
 	</a></center></ul>
 
