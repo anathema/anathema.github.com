@@ -14,7 +14,8 @@ $( document ).ready( function () {
                latestVersion = taggedVersion;			   
             }
          }
-      $( '#latestVersion' ).append(latestVersion);
+      $( '.latestVersion' ).append(latestVersion);
+	  $( '.linkToChangelog' ).replaceWith('<a href="https://github.com/anathema/anathema/blob/v'+latestVersion+'/Development_Documentation/Distribution/English/versions.md">changelog</a>')
     }
   } );
 } );

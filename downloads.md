@@ -10,12 +10,12 @@ title: Downloads
 	<span> for Exalted 2.5</span>
 	</a></center></ul>
 
-For a list of recent changes, please see our [changelog](https://github.com/anathema/anathema/blob/master/Development_Documentation/Distribution/English/versions.md).  
+For a list of recent changes, please see our <div class="linkToChangelog"> </div>.  
 Should you require assistance with either download or installation, please refer to the quickstart section below.
 Once you're done installing, the [user's guide](http://prdownloads.sourceforge.net/anathema/AnathemaUsersGuide_v1.0.pdf?download) might be helpful.
 
 ## Download the legacy version
-<ul><center><a href="http://sourceforge.net/projects/anathema/files/Anathema%203.1.2/">Get Anathema for 1st Edition, Power Combat and "classic" Second Edition</a></center></ul>
+<ul><center><a href="http://sourceforge.net/projects/anathema/files/Anathema%203.1.2/">Get Anathema 3.1.2 for 1st Edition, Power Combat and "classic" Second Edition</a></center></ul>
 
 Anathema 3.1.2, released on 03/18/2012, was the last release supporting the game's older rules. If your group uses those rules, please download this version.
 
