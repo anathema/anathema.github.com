@@ -4,7 +4,7 @@ title: Downloads
 ---
 ## Download the latest version
 
-<ul><center><a href="http://sourceforge.net/project/platformdownload.php?group_id=122320">Get Anathema for Exalted 2.5</a></center></ul>
+<ul><center><a href="http://sourceforge.net/project/platformdownload.php?group_id=122320">Get Anathema <span id="latestVersion"></span> for Exalted 2.5</a></center></ul>
 
 For a list of recent changes, please see our [changelog](https://github.com/anathema/anathema/blob/master/Development_Documentation/Distribution/English/versions.md).  
 Should you require assistance with either download or installation, please refer to the quickstart section below.
