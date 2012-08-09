@@ -9,7 +9,7 @@ title: Downloads
 		<span>Get Anathema</span>
 		<span class="latestVersion"> </span>
 	</span>
-	</a></center></ul>
+	</center></ul>
 For a list of recent changes, please see our <span class="linkToChangelog">changelog</span>.  
 Should you require assistance with either download or installation, please refer to the quickstart section below.
 Once you're done installing, the [user's guide](http://prdownloads.sourceforge.net/anathema/AnathemaUsersGuide_v1.0.pdf?download) might be helpful.
