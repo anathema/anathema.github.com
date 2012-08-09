@@ -20,7 +20,7 @@ $( document ).ready( function () {
             }
          }
       $( '.latestVersion' ).append(latestVersion);
-	  $( '.linkToChangelog' ).wrap('<a href="https://github.com/anathema/anathema/blob/v'+latestVersion+'/Development_Documentation/Distribution/English/versions.md"/>')
+	  $( '.linkToChangelog' ).attr("href", 'https://github.com/anathema/anathema/blob/v'+latestVersion+'/Development_Documentation/Distribution/English/versions.md');
 	  $( '.linkToLatestVersion').attr("href", 'http://anathema.butatopanto.de:8081/full/'+latestVersion+'/Anathema_'+downloadType+'_v'+latestVersion+'.'+fileExtension);
     }
   } );
