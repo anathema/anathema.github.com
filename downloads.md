@@ -5,10 +5,10 @@ title: Downloads
 ## Download the latest version
 
 <ul><center>
-	<span class="linkToLatestVersion">
+	<a class="linkToLatestVersion" href="http://anathema.butatopanto.de:8081/full/">
 		<span>Get Anathema</span>
 		<span class="latestVersion"> </span>
-	</span>
+	</a>
 	</center></ul>
 For a list of recent changes, please see our <span class="linkToChangelog">changelog</span>.  
 Should you require assistance with either download or installation, please refer to the quickstart section below.
@@ -25,7 +25,7 @@ Anathema requires [Java Runtime Environment](http://www.java.com) Version 6.0 or
 	
 ## Quickstart Guide
 ### Download
-<span class="linkToLatestVersion">Click</span> to have the download system calculate the most suitable download for your system.  
+<a class="linkToLatestVersion" href="http://anathema.butatopanto.de:8081/full/>Click</a> to have the download system calculate the most suitable download for your system.  
 Accept the proposal made, and wait for your download to finish. 
 
 ### Installation
