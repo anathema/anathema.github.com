@@ -2,9 +2,7 @@
 layout: default
 title: Credits
 ---
-## The Team
-
-##### [Present members](https://github.com/anathema)
+## [The Team](https://github.com/anathema)
 
 * __[Eric Astor](https://plus.google.com/105086402673996622245)__, development
 * __[Sean Mattox](https://plus.google.com/108169111610901863311), development and latest rules
@@ -14,23 +12,22 @@ title: Credits
 * __[Rob Rutherford](https://plus.google.com/110266164366343816505)__, development
 * __[Curtis Tasker](http://curtistasker.com)__, development and Mac support
 
-##### In former times
+## Helpful Hands
 
 * __[Paul Adams](http://jontukontar.livejournal.com)__, Charm support
 * __[Giovanni D'Addabbo](http://www.exalteditalia.com)__ & __Team ITA__, italian translation
-* __[Martin Nerurkar](http://www.dcs-designs.de)__, artwork and webdesign
 * __Ricardo Rodriguez__, spanish translation
 * __[Wordman](http://rpg.divnull.com/exalted/)__, Mac OS X integration
 
-## The Supporters
+## Supporters
 
-To which we bow in gratitude.
-
-* <a href="http://www.sf.net"><b>SourceForge.net</b></a>, free host and general service provider
-* <a href="http://www.jetbrains.com"><b>Jetbrains</b><a>, makers of IntelliJ IDEA
-* <a href="http://www.ej-technologies.com/products/jprofiler/overview.html"><b>ej-technologies</b></a>, creators of JProfiler
-* <b>Our donors</b>
+* __[github.com](http://github.com)__, repository services and webhost
+* __[SourceForge.net](http://www.sf.net)__, host of releases and mailing lists
+* __[Jetbrains](http://jetbrains.com)__, makers of IntelliJ IDEA
+* __[ej-technologies](http://www.ej-technologies.com)__, creators of JProfiler
+* __Our donors__
 
 ## Special thanks to
-* <a href="http://www.voidstate.com"><b>voidstate</b></a>, whose character sheets and namegenerator inspired us.
-* <a href="http://www.hd42.de"><b>Daniel Hohenberger</b></a>, who made the first steps towards automating the Charm tree layout.
+* __[voidstate](http://www.voidstate.com)__, whose character sheets and namegenerator inspired us.
+* __[Daniel Hohenberger](http://www.hd42.de), who made the first steps towards automating the Charm tree layout.
+* __[Martin Nerurkar](http://www.dcs-designs.de)__, for his great artwork and webdesign
