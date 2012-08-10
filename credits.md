@@ -17,11 +17,11 @@ title: Credits
 ##### In former times
 
 * __[Paul Adams](http://jontukontar.livejournal.com)__, Charm support
-* __[Giovanni D'Addabbo](http://www.exalteditalia.com) & Team ITA__, italian translation
+* __[Giovanni D'Addabbo](http://www.exalteditalia.com)__ & __Team ITA__, italian translation
 * __[Martin Nerurkar](http://www.dcs-designs.de)__, artwork and webdesign
 * __Ricardo Rodriguez__, spanish translation
 * __[Wordman](http://rpg.divnull.com/exalted/)__, Mac OS X integration
-	
+
 ## The Supporters
 
 To which we bow in gratitude.
