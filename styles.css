@@ -73,6 +73,14 @@
 	{
 		display: none
 	}
+	#contents a[href^="http://anathema.butatopanto.de"]:after
+	{
+		display: none
+	}
+	#contents a[href^="http://anathema.github.com"]:after
+	{
+		display: none
+	}
 
 	#menu
 	{
