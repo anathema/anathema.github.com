@@ -4,7 +4,7 @@ title: Credits
 ---
 ## The Team
 
-#### [Present members](https://github.com/anathema)
+###### [Present members](https://github.com/anathema)
 
 * __[Eric Astor](https://plus.google.com/105086402673996622245)__, development
 * __[Sean Mattox](https://plus.google.com/108169111610901863311), development and latest rules
@@ -14,16 +14,16 @@ title: Credits
 * __[Rob Rutherford](https://plus.google.com/110266164366343816505)__, development
 * __[Curtis Tasker](http://curtistasker.com)__, development and Mac support
 
-#### In former times
+###### In former times
 
 * __[Paul Adams](http://jontukontar.livejournal.com)__, Charm support
 * __[Giovanni D'Addabbo](http://www.exalteditalia.com) & Team ITA__, italian translation
 * __[Martin Nerurkar](http://www.dcs-designs.de)__, artwork and webdesign
 * __Ricardo Rodriguez__, spanish translation
-* __[Wordman](http://rpg.divnull.com/exalted/), Mac OS X integration
+* __[Wordman](http://rpg.divnull.com/exalted/)__, Mac OS X integration
 	
 <h2>The Supporters</h2>
-<P>To which we bow in gratitude.</p>
+<p>To which we bow in gratitude.</p>
 	<ul>
 		<li><a href="http://www.sf.net"><b>SourceForge.net</b></a>, free host and general service provider</li>
 		<li><a href="http://www.jetbrains.com"><b>Jetbrains</b><a>, makers of IntelliJ IDEA</li> 
