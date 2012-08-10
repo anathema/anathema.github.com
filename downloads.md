@@ -5,15 +5,12 @@ title: Downloads
 ## Download the latest version
 
 <ul><center>
-	<p>
 	<a class="linkToLatestVersion" href="http://anathema.butatopanto.de:8081/full/">
 		<span>Get Anathema</span>
 		<span class="latestVersion"> </span>
 	</a>
-	</p>
-	<p>
-		<a href="http://anathema.butatopanto.de:8081/full" style="font-size:x-small">(Looking for something else?)</a>
-	</p>
+	<br/>
+	<a href="http://anathema.butatopanto.de:8081/full" style="font-size:x-small">(Looking for something else?)</a>
 	</center></ul>
 For a list of recent changes, please see our <a class="linkToChangelog" href="https://github.com/anathema/anathema/blob/master/Development_Documentation/Distribution/English/versions.md">changelog</a>.  
 Should you require assistance with either download or installation, please refer to the quickstart section below.
