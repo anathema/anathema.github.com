@@ -5,7 +5,7 @@ title: Credits
 ## [The Team](https://github.com/anathema)
 
 * __[Eric Astor](https://plus.google.com/105086402673996622245)__, development
-* __[Sean Mattox](https://plus.google.com/108169111610901863311), development and latest rules
+* __[Sean Mattox](https://plus.google.com/108169111610901863311)__, development and latest rules
 * __Scott Olson__,Charms and data
 * __[Urs Reupke](https://plus.google.com/100051405258786750070)__, development, Exalted lore and public relations
 * __[Sandra Reupke-Sieroux](https://plus.google.com/109141795028026264608)__, development, code creativity and advanced projects
@@ -28,6 +28,6 @@ title: Credits
 * __Our donors__
 
 ## Special thanks to
-* __[voidstate](http://www.voidstate.com)__, whose character sheets and namegenerator inspired us.
-* __[Daniel Hohenberger](http://www.hd42.de), who made the first steps towards automating the Charm tree layout.
+* __[Daniel Hohenberger](http://www.hd42.de)__, who made the first steps towards automating the Charm tree layout.
 * __[Martin Nerurkar](http://www.dcs-designs.de)__, for his great artwork and webdesign
+* __[voidstate](http://www.voidstate.com)__, whose character sheets and namegenerator inspired us.
