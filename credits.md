@@ -6,21 +6,21 @@ title: Credits
 
 #### [Present members](https://github.com/anathema)
 
-<ul>__[Eric Astor](https://plus.google.com/105086402673996622245)__, development</ul>
-<ul>__[Sean Mattox](https://plus.google.com/108169111610901863311), development and latest rules</ul>
-<ul>__Scott Olson,Charms and data</ul>
-<ul>__[Urs Reupke](https://plus.google.com/100051405258786750070)__, development, Exalted lore and public relations</ul>
-<ul>__[Sandra Reupke-Sieroux](https://plus.google.com/109141795028026264608)__, development, code creativity and advanced projects</ul>
-<ul>__[Rob Rutherford](https://plus.google.com/110266164366343816505)__, development</ul>
-<ul>__[Curtis Tasker](http://curtistasker.com), development and Mac support</ul>
+* __[Eric Astor](https://plus.google.com/105086402673996622245)__, development
+* __[Sean Mattox](https://plus.google.com/108169111610901863311), development and latest rules
+* __Scott Olson,Charms and data
+* __[Urs Reupke](https://plus.google.com/100051405258786750070)__, development, Exalted lore and public relations
+* __[Sandra Reupke-Sieroux](https://plus.google.com/109141795028026264608)__, development, code creativity and advanced projects
+* __[Rob Rutherford](https://plus.google.com/110266164366343816505)__, development
+* __[Curtis Tasker](http://curtistasker.com), development and Mac support
 
 #### In former times
 
-<ul>__[Paul Adams]__(http://jontukontar.livejournal.com), Charm support</ul>
-<ul>__[Giovanni D'Addabbo](http://www.exalteditalia.com) & Team ITA__, italian translation</ul>
-<ul>__[Martin Nerurkar](http://www.dcs-designs.de)__, artwork and webdesign</ul>
-<ul>__Ricardo Rodriguez__, spanish translation</ul>
-<ul>__[Wordman](http://rpg.divnull.com/exalted/), Mac OS X integration</ul>
+* __[Paul Adams]__(http://jontukontar.livejournal.com), Charm support
+* __[Giovanni D'Addabbo](http://www.exalteditalia.com) & Team ITA__, italian translation
+* __[Martin Nerurkar](http://www.dcs-designs.de)__, artwork and webdesign
+* __Ricardo Rodriguez__, spanish translation
+* __[Wordman](http://rpg.divnull.com/exalted/), Mac OS X integration
 	
 <h2>The Supporters</h2>
 <P>To which we bow in gratitude.</p>
