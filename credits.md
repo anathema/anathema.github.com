@@ -6,7 +6,7 @@ title: Credits
 
 * __[Eric Astor](https://plus.google.com/105086402673996622245)__, development
 * __[Sean Mattox](https://plus.google.com/108169111610901863311)__, development and latest rules
-* __Scott Olson__,Charms and data
+* __Scott Olson__, Charms and data
 * __[Urs Reupke](https://plus.google.com/100051405258786750070)__, development, Exalted lore and public relations
 * __[Sandra Reupke-Sieroux](https://plus.google.com/109141795028026264608)__, development, code creativity and advanced projects
 * __[Rob Rutherford](https://plus.google.com/110266164366343816505)__, development
