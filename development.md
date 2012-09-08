@@ -3,7 +3,7 @@ layout: default
 title: Development
 ---
 
-The easiest way to contribute is by [giving feedback](/contact]. Just let us know what you think, especially what you think could be done better.  
+The easiest way to contribute is by [giving feedback](/contact). Just let us know what you think, especially what you think could be done better.  
 If you have an idea for more more in-depth-work, but aren't sure it's suitable, just [contact us](/contact).
 
 
