@@ -26,7 +26,7 @@ Should all that fail, please contact us with the following information:
 
 ### Are there further instructions?
 
-We have a quickstart guide on the [Downloads](?page=downloads) page and a more [complete guide](https://github.com/anathema/anathema/wiki/Guide) in our wiki.
+We have a quickstart guide on the [Downloads](/downloads) page and a more [complete guide](https://github.com/anathema/anathema/wiki/Guide) in our wiki.
 
 ## Bugs & Features
 
