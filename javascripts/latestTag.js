@@ -9,7 +9,7 @@ $( document ).ready( function () {
    }
 	if (navigator.appVersion.indexOf("Mac")!=-1){
 		downloadType="Mac";
-		targetPlatform="Mac OS";
+		targetPlatform="OS X";
 	}
    $.ajax( {
     url : "https://api.github.com/repos/anathema/anathema/tags",
