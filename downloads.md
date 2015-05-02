@@ -23,8 +23,9 @@ Anathema 3.1.3, released on 10/19/2013, was the last release supporting the game
 
 ## Requirements
 Anathema requires [Java Runtime Environment](http://www.java.com) Version 7, Update 21 or later.
-	
+
 ## Quickstart Guide
+
 ### Installation
 Regular releases are pre-packed and installed on their own. Auto-installing packages for different operating systems are available.
 If you downloaded the raw (.zip) package, the archive can simply be extracted into the target directory.
