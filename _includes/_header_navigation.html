@@ -1,11 +1,11 @@
-		<ul class="menu">		    
+		<ul class="menu">
 			{% if page.title != "News" %}
 				<li class="menu"><a href="/news.html">News</a>
 				{% else %}
 				<li class="menu" style="list-style-type: disc;"><b>News</b>
 			{% endif %}
 			<b><small>[<a href="http://anathema.github.com/rss.xml">RSS</a>|<a href="http://anathema.github.com/atom.xml">Atom</a>]</small></li>
-			
+
 			{% if page.title != "About" %}
 				<li class="menu"><a href="/about.html">About</a></li>
 				{% else %}
@@ -20,25 +20,20 @@
 				<li class="menu"><a href="/downloads.html">Downloads</a></li>
 				{% else %}
 				<li class="menu" style="list-style-type: disc;"><b>Downloads</b></li>
-			{% endif %}	
-			{% if page.title != "Development" %}
-				<li class="menu"><a href="/development.html">Development</a></li>
-				{% else %}
-				<li class="menu" style="list-style-type: disc;"><b>Development</b></li>
-			{% endif %}	
+			{% endif %}
 			{% if page.title != "FAQ" %}
 				<li class="menu"><a href="/faq.html">FAQ</a></li>
 				{% else %}
 				<li class="menu" style="list-style-type: disc;"><b>FAQ</b></li>
-			{% endif %}						
+			{% endif %}
 			{% if page.title != "Contact" %}
 				<li class="menu"><a href="/contact.html">Contact</a></li>
 				{% else %}
 				<li class="menu" style="list-style-type: disc;"><b>Contact</b></li>
-			{% endif %}						
+			{% endif %}
 			{% if page.title != "Credits" %}
 				<li class="menu"><a href="/credits.html">Credits</a></li>
 				{% else %}
 				<li class="menu" style="list-style-type: disc;"><b>Credits</b></li>
-			{% endif %}		
+			{% endif %}
 		</ul>
