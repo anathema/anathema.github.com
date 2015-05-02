@@ -10,7 +10,7 @@ We're eager to hear your feedback and ideas.
 
 ## External Boards
 
-The project is also discussed in several external boards. The team mostly frequents the [White Wolf Exalted board](http://forums.white-wolf.com/default.aspx?g=topics&f=17).
+The project is also discussed in several external boards. The team mostly frequents the [Onyx Path Exalted board](http://forum.theonyxpath.com/forum/main-category/exalted).
 
 ## Bugs & Features
 
